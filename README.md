@@ -31,3 +31,4 @@ Career Paths: A data professional survey breakdown dashboard can help identify c
 
 Overall, this data professional survey breakdown dashboard can provide valuable insights into job satisfaction, salary trends, skills in demand, diversity, and career paths, which can help data professionals make informed decisions about their careers and help organizations attract and retain top talent in the field.
 
+![Data Professional](https://user-images.githubusercontent.com/106580702/230173851-74c5b2ba-36f2-422d-bb6c-147e47ccc19d.jpg)
