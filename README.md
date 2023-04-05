@@ -15,3 +15,19 @@ Sales by Region: A Sales project dashboard can provide insights into sales perfo
 Sales Forecast: A Sales project dashboard can provide a sales forecast based on historical sales data and trends, which can help to set realistic sales targets and adjust sales strategies accordingly.
 
 ![Sales projecct](https://user-images.githubusercontent.com/106580702/230172336-ac504a95-fe87-49c4-8cab-4c0d92699c8f.jpg)
+
+
+PROJECT 3 ( DATA PROFFESSIONAL SURVEY BREAKDOWN )
+
+Job Satisfaction: This data professional survey breakdown dashboard is giving an overview of job satisfaction among data professionals, including factors that contribute to job satisfaction and dissatisfaction.
+
+Salary Trends: A data professional survey breakdown dashboard is providing insights into salary trends for data professionals, including median and average salaries, salary by experience level, and salary by geographic region.
+
+Skills in Demand: This dashboard can help identify the most in-demand skills among data professionals, including programming languages, analytical tools, and data visualization techniques.
+
+Gender and Diversity: This dashboard can provide insights into gender and diversity in the data professional workforce, including representation by race, gender, and other demographic factors.
+
+Career Paths: A data professional survey breakdown dashboard can help identify common career paths for data professionals, including the most common job titles and the skills and experience required for advancement.
+
+Overall, this data professional survey breakdown dashboard can provide valuable insights into job satisfaction, salary trends, skills in demand, diversity, and career paths, which can help data professionals make informed decisions about their careers and help organizations attract and retain top talent in the field.
+
