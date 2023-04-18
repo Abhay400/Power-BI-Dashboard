@@ -32,3 +32,10 @@ Career Paths: A data professional survey breakdown dashboard can help identify c
 Overall, this data professional survey breakdown dashboard can provide valuable insights into job satisfaction, salary trends, skills in demand, diversity, and career paths, which can help data professionals make informed decisions about their careers and help organizations attract and retain top talent in the field.
 
 ![Data Professional](https://user-images.githubusercontent.com/106580702/230173851-74c5b2ba-36f2-422d-bb6c-147e47ccc19d.jpg)
+
+HOSPITALITY DASHBOARD
+
+I recently completed a hospitality dashboard using DAX formulas in Power BI, and it was an exciting project. The dashboard provides a comprehensive view of the hospitality business's performance, including insights into revenue, occupancy rates, and customer satisfaction levels. With DAX formulas, I was able to extract meaningful insights from the data and present it in an easily understandable way. The dashboard is interactive, allowing the user to filter data by various categories such as date range, region, or customer segment. Overall, I am proud of the finished product and believe it will be a valuable tool for decision-making in the hospitality industry.
+Note: In Hospitality industry Friday and Saturday are consider as weekends.
+
+![project hospitality_page-0001](https://user-images.githubusercontent.com/106580702/232848039-5dd896c2-e3e9-41fe-9e46-426902097e18.jpg
