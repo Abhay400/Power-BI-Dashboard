@@ -33,9 +33,9 @@ Overall, this data professional survey breakdown dashboard can provide valuable 
 
 ![Data Professional](https://user-images.githubusercontent.com/106580702/230173851-74c5b2ba-36f2-422d-bb6c-147e47ccc19d.jpg)
 
-HOSPITALITY DASHBOARD
+pROJECT 4 ( HOSPITALITY DASHBOARD )
 
 I recently completed a hospitality dashboard using DAX formulas in Power BI, and it was an exciting project. The dashboard provides a comprehensive view of the hospitality business's performance, including insights into revenue, occupancy rates, and customer satisfaction levels. With DAX formulas, I was able to extract meaningful insights from the data and present it in an easily understandable way. The dashboard is interactive, allowing the user to filter data by various categories such as date range, region, or customer segment. Overall, I am proud of the finished product and believe it will be a valuable tool for decision-making in the hospitality industry.
 Note: In Hospitality industry Friday and Saturday are consider as weekends.
 
-![project hospitality_page-0001](https://user-images.githubusercontent.com/106580702/232848039-5dd896c2-e3e9-41fe-9e46-426902097e18.jpg
+![project hospitality_page-0001](https://user-images.githubusercontent.com/106580702/232848521-798cdeb7-6005-4366-8cfc-8ade38ab4ffb.jpg)
